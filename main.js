@@ -1,5 +1,5 @@
 // tady je místo pro náš program
-ctverecek = document.querySelector(".ctverecek");
+let ctverecek = document.querySelector(".ctverecek");
 function zelena() {
   ctverecek.style.backgroundColor = "green";
 }
